@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Lock Screen</key>
+	<dict>
+		<key>value</key>
+		<string>Lås skärmen</string>
+		<key>comment</key>
+		<string>Menu Item to Lock the Screen</string>
+	</dict>
+	<key>SignIn</key>
+	<dict>
+		<key>value</key>
+		<string>Logga in</string>
+		<key>comment</key>
+		<string>Menu item to Sign In</string>
+	</dict>
+	<key>NoMADMenuController-Connected</key>
+	<dict>
+		<key>value</key>
+		<string></string>
+		<key>comment</key>
+		<string>Text in the menu bar to show that NoMAD can find the Domain</string>
+	</dict>
+	<key>NoMADMenuController-NotConnected</key>
+	<dict>
+		<key>value</key>
+		<string>Ej ansluten</string>
+		<key>comment</key>
+		<string>Text in the menu bar to show that NoMAD can not find the Domain</string>
+	</dict>
+	<key>NoMADMenuController-ChangePassword</key>
+	<dict>
+		<key>value</key>
+		<string>Byt lösenord</string>
+		<key>comment</key>
+		<string>Menu Item to Change Password</string>
+	</dict>
+	<key>UserName</key>
+	<dict>
+		<key>value</key>
+		<string>Namn</string>
+		<key>comment</key>
+		<string>User&apos;s full name.</string>
+	</dict>
+	<key>NoMADMenuController-GetSoftware</key>
+	<dict>
+		<key>comment</key>
+		<string>Menu item to open software portal.</string>
+		<key>value</key>
+		<string>Hämta programvara</string>
+	</dict>
+	<key>NoMADMenuController-GetHelp</key>
+	<dict>
+		<key>value</key>
+		<string>Kontakta support</string>
+		<key>comment</key>
+		<string>Menu item to open up the support options.</string>
+	</dict>
+	<key>NoMADMenuController-Preferences</key>
+	<dict>
+		<key>value</key>
+		<string>Inställningar</string>
+		<key>comment</key>
+		<string>Menu item to open Preferences window.</string>
+	</dict>
+	<key>NoMADMenuController-Quit</key>
+	<dict>
+		<key>value</key>
+		<string>Avsluta</string>
+		<key>comment</key>
+		<string>Menu item to quit NoMAD.</string>
+	</dict>
+	<key>NoMADMenuController-RenewTickets</key>
+	<dict>
+		<key>comment</key>
+		<string>Menu item to renew Kerberos tickets</string>
+		<key>value</key>
+		<string>Förnya biljetter</string>
+	</dict>
+	<key>NoMADMenuController-PasswordExpiresInDays</key>
+	<dict>
+		<key>comment</key>
+		<string>Long text for how many days until your password expires</string>
+		<key>value</key>
+		<string>Lösenordet går ut om %@ dagar</string>
+	</dict>
+	<key>PasswordDoesNotExpire</key>
+	<dict>
+		<key>value</key>
+		<string>Lösenordet går inte ut</string>
+		<key>comment</key>
+		<string>menu item for when the password has no expiration date</string>
+	</dict>
+	<key>PasswordChangeSuccessful</key>
+	<dict>
+		<key>value</key>
+		<string>Lösenordet har ändrats. Notera att det kan ta upp till en timme innan informationen om när lösenordet går ut uppdateras.</string>
+		<key>comment</key>
+		<string>message to let user know password changed successfully</string>
+	</dict>
+	<key>InvalidPassword</key>
+	<dict>
+		<key>value</key>
+		<string>Felaktigt lösenord, var god försök igen.</string>
+		<key>comment</key>
+		<string>error when password is wrong</string>
+	</dict>
+	<key>InvalidUsername</key>
+	<dict>
+		<key>value</key>
+		<string>Felaktigt användarnamn, var god försök igen.</string>
+		<key>comment</key>
+		<string>error when username is wrong</string>
+	</dict>
+	<key>PasswordExpire</key>
+	<dict>
+		<key>value</key>
+		<string>Ditt lösenord har gått ut. Byt ut ditt lösenord nu.</string>
+		<key>comment</key>
+		<string>error when password has expired</string>
+	</dict>
+	<key>PasswordAboutToExpire</key>
+	<dict>
+		<key>value</key>
+		<string>Ditt lösenord håller på att gå ut!</string>
+		<key>comment</key>
+		<string>message when password is about to expire</string>
+	</dict>
+	<key>PasswordExpiresOn</key>
+	<dict>
+		<key>value</key>
+		<string>Ditt nätverkslösenord kommer att gå ut </string>
+		<key>comment</key>
+		<string>Your network password is about to expire on &lt;date&gt;</string>
+	</dict>
+	<key>PasswordMismatch</key>
+	<dict>
+		<key>value</key>
+		<string>Lösenorden matchar inte.</string>
+		<key>comment</key>
+		<string>error when new passwords don&apos;t match</string>
+	</dict>
+	<key>NetworkLocalMismatch</key>
+	<dict>
+		<key>value</key>
+		<string>Nätverkslösenord och lokalt lösenord överensstämmer inte. Ange lösenordet för din Mac.</string>
+		<key>comment</key>
+		<string>error when network and local passwords do not match</string>
+	</dict>
+	<key>ValidCertificate</key>
+	<dict>
+		<key>value</key>
+		<string>Du har redan ett giltigt certifikat.</string>
+		<key>comment</key>
+		<string>user already has a valid certificate</string>
+	</dict>
+	<key>Cancel</key>
+	<dict>
+		<key>value</key>
+		<string>Avbryt</string>
+		<key>comment</key>
+		<string>button for cancelling actions</string>
+	</dict>
+	<key>RequestAnyway</key>
+	<dict>
+		<key>value</key>
+		<string>Begär ändå</string>
+		<key>comment</key>
+		<string>button to request anyway</string>
+	</dict>
+	<key>CertConnectionError</key>
+	<dict>
+		<key>value</key>
+		<string>Anslutningsfel. Säkerställ att SSL-certifikaten är betrodda och att det är rätt adress till er x509 CA.</string>
+		<key>comment</key>
+		<string>message when Certificate Authority can&apos;t be reached</string>
+	</dict>
+	<key>CAConfigError</key>
+	<dict>
+		<key>value</key>
+		<string>Säkerställ att inställningen för er x509 CA är korrekt.</string>
+		<key>comment</key>
+		<string>error when CA can&apos;t be found</string>
+	</dict>
+	<key>d</key>
+	<dict>
+		<key>value</key>
+		<string>d</string>
+		<key>comment</key>
+		<string>short form of days</string>
+	</dict>
+	<key>HomeSharepoint</key>
+	<dict>
+		<key>value</key>
+		<string>Nätverkshemmapp</string>
+		<key>comment</key>
+		<string>Menu item for opening up a user&apos;s home sharepoint from their AD profile</string>
+	</dict>
+	<key>LoginWindow-OldPasswordLabel</key>
+	<dict>
+		<key>value</key>
+		<string>Gammalt lösenord</string>
+		<key>comment</key>
+		<string>Label for old password</string>
+	</dict>
+	<key>LoginWindow-PasswordLabel</key>
+	<dict>
+		<key>value</key>
+		<string>Lösenord</string>
+		<key>comment</key>
+		<string>Label for password</string>
+	</dict>
+	<key>NoMADMenuController-SmartcardSignIn</key>
+	<dict>
+		<key>value</key>
+		<string>Logga in med smartcard</string>
+		<key>comment</key>
+		<string>PKINIT smartcard menu sign in</string>
+	</dict>
+	<key>NoMADMenuController-SignInWithSmartcard</key>
+	<dict>
+		<key>value</key>
+		<string>Logga in med ett smartcard.</string>
+		<key>comment</key>
+		<string>PKINIT smartcard menu sign in tool tip</string>
+	</dict>
+	<key>NoMADMenuController-NotLoggedIn</key>
+	<dict>
+		<key>value</key>
+		<string>Inte inloggad.</string>
+		<key>comment</key>
+		<string>User info for ticket life when not signed in</string>
+	</dict>
+	<key>NoMADMenuController-NotSignedIn</key>
+	<dict>
+		<key>value</key>
+		<string>Inte inloggad</string>
+		<key>comment</key>
+		<string>User info when not signed in</string>
+	</dict>
+	<key>NoMADMenuController-NoUser</key>
+	<dict>
+		<key>value</key>
+		<string>Ingen användare</string>
+		<key>comment</key>
+		<string>User info when no user is available</string>
+	</dict>
+	<key>UserInformation-PasswordChanged</key>
+	<dict>
+		<key>value</key>
+		<string>Lösenord ändrat</string>
+		<key>comment</key>
+		<string>Notification title when password changed</string>
+	</dict>
+	<key>UserInformation-PwdChangedSignInAgain</key>
+	<dict>
+		<key>value</key>
+		<string>Ditt lösenord har ändrats, logga in i NoMAD igen för att uppdatera ditt lösenord.</string>
+		<key>comment</key>
+		<string>Notification text asking to sign in again</string>
+	</dict>
+	<key>UserInformation-Ignore</key>
+	<dict>
+		<key>value</key>
+		<string>Ignorera</string>
+		<key>comment</key>
+		<string>Password change notification ignore button</string>
+	</dict>
+</dict>
+</plist>

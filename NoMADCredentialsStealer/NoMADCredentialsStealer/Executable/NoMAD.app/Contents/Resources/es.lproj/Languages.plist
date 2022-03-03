@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>Lock Screen</key>
+        <dict>
+            <key>value</key>
+            <string>Bloquear pantalla</string>
+            <key>comment</key>
+            <string>Item del menú para bloquear la pantalla</string>
+        </dict>
+        <key>SignIn</key>
+        <dict>
+            <key>value</key>
+            <string>Iniciar sesión</string>
+            <key>comment</key>
+            <string>Item de menu para iniciar sesión</string>
+        </dict>
+        <key>NoMADMenuController-Connected</key>
+        <dict>
+            <key>value</key>
+            <string></string>
+            <key>comment</key>
+            <string>Texto en la barra de menu para mostrar que NoMAD no puede encontrar el dominio</string>
+        </dict>
+        <key>NoMADMenuController-NotConnected</key>
+        <dict>
+            <key>value</key>
+            <string>Sin conexión</string>
+            <key>comment</key>
+            <string>Texto en la barra de menu para mostrar que NoMAD no puede encontrar el dominio</string>
+        </dict>
+        <key>NoMADMenuController-ChangePassword</key>
+        <dict>
+            <key>value</key>
+            <string>Cambiar contraseña</string>
+            <key>comment</key>
+            <string>Item del menú para cambiar contraseña</string>
+        </dict>
+        <key>UserName</key>
+        <dict>
+            <key>value</key>
+            <string>Nombre de usuario</string>
+            <key>comment</key>
+            <string>Nombre completo de usuario</string>
+        </dict>
+        <key>NoMADMenuController-GetSoftware</key>
+        <dict>
+            <key>comment</key>
+            <string>Item del menu para abrir el portal de aplicaciones.</string>
+            <key>value</key>
+            <string>Obtener aplicación</string>
+        </dict>
+        <key>NoMADMenuController-GetHelp</key>
+        <dict>
+            <key>value</key>
+            <string>Obtener ayuda</string>
+            <key>comment</key>
+            <string>Item del menu para abrir las opciones de soporte</string>
+        </dict>
+        <key>NoMADMenuController-Preferences</key>
+        <dict>
+            <key>value</key>
+            <string>Preferencias</string>
+            <key>comment</key>
+            <string>Item del menu para abrir la venta de preferencias.</string>
+        </dict>
+        <key>NoMADMenuController-Quit</key>
+        <dict>
+            <key>value</key>
+            <string>Cerrar</string>
+            <key>comment</key>
+            <string>Item del menu para cerrar NoMAD.</string>
+        </dict>
+        <key>NoMADMenuController-RenewTickets</key>
+        <dict>
+            <key>comment</key>
+            <string>Item del menu para renovar los tickets de Kerberos</string>
+            <key>value</key>
+            <string>Renovar tickets</string>
+        </dict>
+        <key>NoMADMenuController-PasswordExpiresInDays</key>
+        <dict>
+            <key>comment</key>
+            <string>Texto largo para cuántos días quedan para caducar la contraseña</string>
+            <key>value</key>
+            <string>La contraseña caduca en: %@ días</string>
+        </dict>
+        <key>PasswordDoesNotExpire</key>
+        <dict>
+            <key>value</key>
+            <string>La contraseña no caduca</string>
+            <key>comment</key>
+            <string>item del menu para cuando las contraseñas no tiene fecha de caducidad</string>
+        </dict>
+        <key>PasswordChangeSuccessful</key>
+        <dict>
+            <key>value</key>
+            <string>Cambio de contraseña correcto. Nota: podría tomar hasta una hora para que la fecha de caducidad de tu contraseña sea actualizada.</string>
+            <key>comment</key>
+            <string>mensaje para permitir al usuario conocer el cambio correcto de contraseña</string>
+        </dict>
+        <key>InvalidPassword</key>
+        <dict>
+            <key>value</key>
+            <string>Contraseña incorrecta. Por favor prueba de nuevo</string>
+            <key>comment</key>
+            <string>error cuando la contraseña es incorrecta</string>
+        </dict>
+        <key>InvalidUsername</key>
+        <dict>
+            <key>value</key>
+            <string>Nombre de usuario incorrecto. Por favor prueba de nuevo</string>
+            <key>comment</key>
+            <string>error cuando el nombre de usuario es incorrecto</string>
+        </dict>
+        <key>PasswordExpire</key>
+        <dict>
+            <key>value</key>
+            <string>Tu contraseña ha caducado. Por favor restablece tu contraseña ahora</string>
+            <key>comment</key>
+            <string>error cuando la contraseña ha caducado</string>
+        </dict>
+        <key>PasswordAboutToExpire</key>
+        <dict>
+            <key>value</key>
+            <string>¡Contraseña a punto de caducar!</string>
+            <key>comment</key>
+            <string>mensaje cuando tu contraseña está a punto de caducar</string>
+        </dict>
+        <key>PasswordExpiresOn</key>
+        <dict>
+            <key>value</key>
+            <string>Tu contraseña de red está a punto de caducar </string>
+            <key>comment</key>
+            <string>Tu contraseña de red está a punto de caducar en &lt;date&gt;</string>
+        </dict>
+        <key>PasswordMismatch</key>
+        <dict>
+            <key>value</key>
+            <string>Las nuevas contraseñas no coinciden.</string>
+            <key>comment</key>
+            <string>error cuando las nuevas contraseñas no coinciden</string>
+        </dict>
+        <key>NetworkLocalMismatch</key>
+        <dict>
+            <key>value</key>
+            <string>Tus contraseñas de red y local no son la misma. Por favor introduce la contraseña para tu Mac</string>
+            <key>comment</key>
+            <string>error cuando las contraseñas de red y local no coinciden</string>
+        </dict>
+        <key>ValidCertificate</key>
+        <dict>
+            <key>value</key>
+            <string>Ya tienes un certificado valido</string>
+            <key>comment</key>
+            <string>el usuario ya tiene un certificado valido</string>
+        </dict>
+        <key>Cancel</key>
+        <dict>
+            <key>value</key>
+            <string>Cancelar</string>
+            <key>comment</key>
+            <string>botón para cancelar acciones</string>
+        </dict>
+        <key>RequestAnyway</key>
+        <dict>
+            <key>value</key>
+            <string>Solicitar de todos modos</string>
+            <key>comment</key>
+            <string>botón para solicitar de todos modos</string>
+        </dict>
+        <key>CertConnectionError</key>
+        <dict>
+            <key>value</key>
+            <string>Error de conexión. Por favor asegurate que los certificados SSL son de confianza y la URL para tu CA X509 sea correcta.</string>
+            <key>comment</key>
+            <string>mensaje cuando la Autoridad Certificadora no es alcanzable</string>
+        </dict>
+        <key>CAConfigError</key>
+        <dict>
+            <key>value</key>
+            <string>Por favor asegurate que los ajustes de tu Autoridad Certificadora son correctos.</string>
+            <key>comment</key>
+            <string>error cuando la CA no se encuentra</string>
+        </dict>
+        <key>d</key>
+        <dict>
+            <key>value</key>
+            <string>d</string>
+            <key>comment</key>
+            <string>forma corta para días</string>
+        </dict>
+        <key>HomeSharepoint</key>
+        <dict>
+            <key>value</key>
+            <string>Carpeta de usuario compartida en red</string>
+            <key>comment</key>
+            <string>Item del menu para abrir la carpeta de usuario compartida en red de su perfil de AD</string>
+        </dict>
+        <key>LoginWindow-OldPasswordLabel</key>
+        <dict>
+            <key>value</key>
+            <string>Contraseña antigua</string>
+            <key>comment</key>
+            <string>Etiqueta para contraseña antigua</string>
+        </dict>
+        <key>LoginWindow-PasswordLabel</key>
+        <dict>
+            <key>value</key>
+            <string>Contraseña</string>
+            <key>comment</key>
+            <string>Etiqueta para contraseña</string>
+        </dict>
+        <key>NoMADMenuController-SmartcardSignIn</key>
+        <dict>
+            <key>value</key>
+            <string>Iniciar sesión con SmartCard</string>
+            <key>comment</key>
+            <string>Menu para iniciar sesión con PKINIT smartcard</string>
+        </dict>
+        <key>NoMADMenuController-SignInWithSmartcard</key>
+        <dict>
+            <key>value</key>
+            <string>Iniciar sesión con SmartCard.</string>
+            <key>comment</key>
+            <string>PKINIT smartcard menu sign in tool tip</string>
+        </dict>
+        <key>NoMADMenuController-NotLoggedIn</key>
+        <dict>
+            <key>value</key>
+            <string>No conectado</string>
+            <key>comment</key>
+            <string>Información al usuario sobre la caducidad del ticket cuando no está conectado</string>
+        </dict>
+        <key>NoMADMenuController-NotSignedIn</key>
+        <dict>
+            <key>value</key>
+            <string>No conectado</string>
+            <key>comment</key>
+            <string>Información del usuario cuando no está conectado</string>
+        </dict>
+        <key>NoMADMenuController-NoUser</key>
+        <dict>
+            <key>value</key>
+            <string>Sin usuario</string>
+            <key>comment</key>
+            <string>Información del usuario cuando no está disponible ningún usuario</string>
+        </dict>
+        <key>UserInformation-PasswordChanged</key>
+        <dict>
+            <key>value</key>
+            <string>Contraseña cambiada</string>
+            <key>comment</key>
+            <string>Notificación cuando la contraseña ha sido cambiada</string>
+        </dict>
+        <key>UserInformation-PwdChangedSignInAgain</key>
+        <dict>
+            <key>value</key>
+            <string>Tu contraseña fue cambiada, por favor reinicia sesión en NoMAD para actualizar tu contraseña</string>
+            <key>comment</key>
+            <string>Notificación pidiendo el inicio de otra vez otra vez</string>
+        </dict>
+        <key>UserInformation-Ignore</key>
+        <dict>
+            <key>value</key>
+            <string>Ignorar</string>
+            <key>comment</key>
+            <string>Password change notification ignore button</string>
+        </dict>
+    </dict></plist>

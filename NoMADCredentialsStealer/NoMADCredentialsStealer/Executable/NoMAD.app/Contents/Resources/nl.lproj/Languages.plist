@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>Lock Screen</key>
+        <dict>
+            <key>value</key>
+            <string>Vergrendel scherm</string>
+            <key>comment</key>
+            <string>Menu onderdeel om het scherm te vergrendelen</string>
+        </dict>
+        <key>SignIn</key>
+        <dict>
+            <key>value</key>
+            <string>Authenticeer</string>
+            <key>comment</key>
+            <string>Menu onderdeel om te authenticeren</string>
+        </dict>
+        <key>NoMADMenuController-Connected</key>
+        <dict>
+            <key>value</key>
+            <string></string>
+            <key>comment</key>
+            <string>Tekst in de menubalk om aan te geven dat NoMAD het domein kan vinden</string>
+        </dict>
+        <key>NoMADMenuController-NotConnected</key>
+        <dict>
+            <key>value</key>
+            <string>Niet verbonden</string>
+            <key>comment</key>
+            <string>Tekst in de menubalk om aan te geven dat NoMAD het domein niet kan vinden</string>
+        </dict>
+        <key>NoMADMenuController-ChangePassword</key>
+        <dict>
+            <key>value</key>
+            <string>Wijzig wachtwoord</string>
+            <key>comment</key>
+            <string>Menu onderdeel om het wachtwoord te wijzigen</string>
+        </dict>
+        <key>UserName</key>
+        <dict>
+            <key>value</key>
+            <string>Gebruikers naam Name</string>
+            <key>comment</key>
+            <string>Gebruikers volledige naam</string>
+        </dict>
+        <key>NoMADMenuController-GetSoftware</key>
+        <dict>
+            <key>comment</key>
+            <string>Menu onderdeel om software portaal te openen.</string>
+            <key>value</key>
+            <string>Toon software</string>
+        </dict>
+        <key>NoMADMenuController-GetHelp</key>
+        <dict>
+            <key>value</key>
+            <string>Toon hulp</string>
+            <key>comment</key>
+            <string>Menu onderdeel om support opties te tonen.</string>
+        </dict>
+        <key>NoMADMenuController-Preferences</key>
+        <dict>
+            <key>value</key>
+            <string>Voorkeuren</string>
+            <key>comment</key>
+            <string>Menu onderdeel om voorkeuren venster te openen.</string>
+        </dict>
+        <key>NoMADMenuController-Quit</key>
+        <dict>
+            <key>value</key>
+            <string>Stop</string>
+            <key>comment</key>
+            <string>Menu onderdeel om NoMAD te stoppen.</string>
+        </dict>
+        <key>NoMADMenuController-RenewTickets</key>
+        <dict>
+            <key>comment</key>
+            <string>Menu onderdeel om Kerberos tickets te vernieuwen.</string>
+            <key>value</key>
+            <string>Vernieuw tickets</string>
+        </dict>
+        <key>NoMADMenuController-PasswordExpiresInDays</key>
+        <dict>
+            <key>comment</key>
+            <string>Uitgebreide tekst voor het aantal dagen totdat uw wachtwoord verloopt.</string>
+            <key>value</key>
+            <string>Wachtwoord verloopt over: %@ dagen</string>
+        </dict>
+        <key>PasswordDoesNotExpire</key>
+        <dict>
+            <key>value</key>
+            <string>Wachtwoord verloopt niet</string>
+            <key>comment</key>
+            <string>Menu onderdeel indien het wachtwoord geen verloopddatum heeft.</string>
+        </dict>
+        <key>PasswordChangeSuccessful</key>
+        <dict>
+            <key>value</key>
+            <string>Wachtwoord succesvol aangepast. Let op: het kan tot een uur duren voordat de wachtwoord verloop tijd wordt bijgewerkt.</string>
+            <key>comment</key>
+            <string>melding om gebruiker te bevestigen dat het wachtwoord succesvol is aangepast.</string>
+        </dict>
+        <key>InvalidPassword</key>
+        <dict>
+            <key>value</key>
+            <string>Ongeldig wachtwoord. Probeer het opnieuw.</string>
+            <key>comment</key>
+            <string>melding als het wachtwoord niet correct is</string>
+        </dict>
+        <key>InvalidUsername</key>
+        <dict>
+            <key>value</key>
+            <string>Ongeldige gebruikersnaam. Probeer het opnieuw.</string>
+            <key>comment</key>
+            <string>melding als de gebruikersnaam niet correct is</string>
+        </dict>
+        <key>PasswordExpire</key>
+        <dict>
+            <key>value</key>
+            <string>Uw wachtwoord is verlopen. Stel nu uw wachtwoord opnieuw in.</string>
+            <key>comment</key>
+            <string>melding als het wachtwoord verlopen is</string>
+        </dict>
+        <key>PasswordAboutToExpire</key>
+        <dict>
+            <key>value</key>
+            <string>Wachtwoord verloopt binnenkort!</string>
+            <key>comment</key>
+            <string>melding als het wachtwoord binnenkort verloopt.</string>
+        </dict>
+        <key>PasswordExpiresOn</key>
+        <dict>
+            <key>value</key>
+            <string>Uw netwerk wachtwoord verloopt binnenkort op </string>
+            <key>comment</key>
+            <string>Uw netwerk wachtwoord verloopt binnenkort op &lt;date&gt;</string>
+        </dict>
+        <key>PasswordMismatch</key>
+        <dict>
+            <key>value</key>
+            <string>Nieuwe wachtwoorden zijn niet gelijk.</string>
+            <key>comment</key>
+            <string>foutmelding als wachtwoord niet gelijk zijn ingevoerd.</string>
+        </dict>
+        <key>NetworkLocalMismatch</key>
+        <dict>
+            <key>value</key>
+            <string>Uw netwerk en lokale wachtwoord zijn niet gelijk. Voer het wachtwoord in van uw Mac.</string>
+            <key>comment</key>
+            <string>foutmelding als netwerk en lokale wachtwoord niet gelijk zijn.</string>
+        </dict>
+        <key>ValidCertificate</key>
+        <dict>
+            <key>value</key>
+            <string>U heeft al een geldig certificaat.</string>
+            <key>comment</key>
+            <string>gebruiker heeft al een geldig certificaat</string>
+        </dict>
+        <key>Cancel</key>
+        <dict>
+            <key>value</key>
+            <string>Annuleer</string>
+            <key>comment</key>
+            <string>knop om acties te annuleren</string>
+        </dict>
+        <key>RequestAnyway</key>
+        <dict>
+            <key>value</key>
+            <string>Vraag toch aan</string>
+            <key>comment</key>
+            <string>knop om toch aan te vragen</string>
+        </dict>
+        <key>CertConnectionError</key>
+        <dict>
+            <key>value</key>
+            <string>Verbindingsfout. Controleer of SSL certificaten vertrouwd zijn en dat de URL correct is voor uw X509 CA.</string>
+            <key>comment</key>
+            <string>foutmelding als Certificaat Authoriteit niet bereikt kan worden.</string>
+        </dict>
+        <key>CAConfigError</key>
+        <dict>
+            <key>value</key>
+            <string>Controleer de instellingen van uw Certificaat Authoriteit.</string>
+            <key>comment</key>
+            <string>foutmelding als CA niet bereikt kan worden</string>
+        </dict>
+        <key>d</key>
+        <dict>
+            <key>value</key>
+            <string>d</string>
+            <key>comment</key>
+            <string>korte vorm van dagen</string>
+        </dict>
+        <key>HomeSharepoint</key>
+        <dict>
+            <key>value</key>
+            <string>Thuismap op netwerkvolume</string>
+            <key>comment</key>
+            <string>Menu onderdeel om de thuismap op het netwerkvolume zoals bekend in het AD gebruikersprofiel te openen.</string>
+        </dict>
+        <key>LoginWindow-OldPasswordLabel</key>
+        <dict>
+            <key>value</key>
+            <string>Oude wachtwoord</string>
+            <key>comment</key>
+            <string>Label voor oude wachtwoord</string>
+        </dict>
+        <key>LoginWindow-PasswordLabel</key>
+        <dict>
+            <key>value</key>
+            <string>Wachtwoord</string>
+            <key>comment</key>
+            <string>Label voor wachtwoord</string>
+        </dict>
+        <key>NoMADMenuController-SmartcardSignIn</key>
+        <dict>
+            <key>value</key>
+            <string>Smartcard authenticatie</string>
+            <key>comment</key>
+            <string>PKINIT smartcard menu authenticatie</string>
+        </dict>
+        <key>NoMADMenuController-SignInWithSmartcard</key>
+        <dict>
+            <key>value</key>
+            <string>Authenticeer met Smartcard.</string>
+            <key>comment</key>
+            <string>PKINIT smartcard menu authenticatie tool tip</string>
+        </dict>
+        <key>NoMADMenuController-NotLoggedIn</key>
+        <dict>
+            <key>value</key>
+            <string>Niet aangemeld.</string>
+            <key>comment</key>
+            <string>User info voor ticket leeftijd als niet aangemeld</string>
+        </dict>
+        <key>NoMADMenuController-NotSignedIn</key>
+        <dict>
+            <key>value</key>
+            <string>Niet geauthenticeerd</string>
+            <key>comment</key>
+            <string>User info als niet geauthenticeerd is (not signed in)</string>
+        </dict>
+        <key>NoMADMenuController-NoUser</key>
+        <dict>
+            <key>value</key>
+            <string>Geen gebruiker</string>
+            <key>comment</key>
+            <string>User info als de gebruiker niet gevonden is</string>
+        </dict>
+        <key>UserInformation-PasswordChanged</key>
+        <dict>
+            <key>value</key>
+            <string>Wachtwoord aangepast</string>
+            <key>comment</key>
+            <string>Melding als wachtwoord aangepast is.</string>
+        </dict>
+        <key>UserInformation-PwdChangedSignInAgain</key>
+        <dict>
+            <key>value</key>
+            <string>Uw wachtwoord was aangepast. Authenticeer opnieuw in met NoMAD om uw wachtwoord bij te werken. Your password was changed, please re-sign into NoMAD to update your password.</string>
+            <key>comment</key>
+            <string>Meldingstekst om opnieuw te authenticeren als wachtwoord aangepast is</string>
+        </dict>
+        <key>UserInformation-Ignore</key>
+        <dict>
+            <key>value</key>
+            <string>Negeer</string>
+            <key>comment</key>
+            <string>Wijzig wachtwoord melding negeer knop</string>
+        </dict>
+    </dict>
+</plist>

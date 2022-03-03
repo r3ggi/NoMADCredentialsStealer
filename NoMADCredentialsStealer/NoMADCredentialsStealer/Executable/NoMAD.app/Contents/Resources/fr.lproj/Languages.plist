@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Lock Screen</key>
+	<dict>
+		<key>value</key>
+		<string>Verrouiller l&apos;écran</string>
+		<key>comment</key>
+		<string>Menu Item to Lock the Screen</string>
+	</dict>
+	<key>SignIn</key>
+	<dict>
+		<key>value</key>
+		<string>Se connecter</string>
+		<key>comment</key>
+		<string>Menu item to Sign In</string>
+	</dict>
+	<key>NoMADMenuController-Connected</key>
+	<dict>
+		<key>value</key>
+		<string></string>
+		<key>comment</key>
+		<string>Text in the menu bar to show that NoMAD can find the Domain</string>
+	</dict>
+	<key>NoMADMenuController-NotConnected</key>
+	<dict>
+		<key>value</key>
+		<string>Pas connecté</string>
+		<key>comment</key>
+		<string>Text in the menu bar to show that NoMAD can not find the Domain</string>
+	</dict>
+	<key>NoMADMenuController-ChangePassword</key>
+	<dict>
+		<key>value</key>
+		<string>Changer le mot de passe</string>
+		<key>comment</key>
+		<string>Menu Item to Change Password</string>
+	</dict>
+	<key>UserName</key>
+	<dict>
+		<key>value</key>
+		<string>Nom d&apos;utilisateur</string>
+		<key>comment</key>
+		<string>User&apos;s full name</string>
+	</dict>
+	<key>NoMADMenuController-GetSoftware</key>
+	<dict>
+		<key>comment</key>
+		<string>Menu item to open software portal.</string>
+		<key>value</key>
+		<string>Logiciels à la demande</string>
+	</dict>
+	<key>NoMADMenuController-GetHelp</key>
+	<dict>
+		<key>value</key>
+		<string>Obtenir de l&apos;aide</string>
+		<key>comment</key>
+		<string>Menu item to open up the support options.</string>
+	</dict>
+	<key>NoMADMenuController-Preferences</key>
+	<dict>
+		<key>value</key>
+		<string>Préférences</string>
+		<key>comment</key>
+		<string>Menu item to open Preferences window.</string>
+	</dict>
+	<key>NoMADMenuController-RenewTickets</key>
+	<dict>
+		<key>comment</key>
+		<string>Menu item to renew Kerberos tickets</string>
+		<key>value</key>
+		<string>Renouveler le ticket</string>
+	</dict>
+	<key>NoMADMenuController-PasswordExpiresInDays</key>
+	<dict>
+		<key>comment</key>
+		<string>Long text for how many days until your password expires</string>
+		<key>value</key>
+		<string>Le mot de passe expire dans %@ jours</string>
+	</dict>
+	<key>PasswordDoesNotExpire</key>
+	<dict>
+		<key>value</key>
+		<string>Le mot de passe n&apos;expire jamais</string>
+		<key>comment</key>
+		<string>menu item for when the password has no expiration date</string>
+	</dict>
+	<key>PasswordChangeSuccessful</key>
+	<dict>
+		<key>value</key>
+		<string>Le mot de passe a été changé avec succès. Remarque: le délai d&apos;expiration du mot de passe peut prendre jusqu&apos;à une heure pour être mis à jour.</string>
+		<key>comment</key>
+		<string>message to let user know password changed successfully</string>
+	</dict>
+	<key>InvalidPassword</key>
+	<dict>
+		<key>value</key>
+		<string>Mot de passe invalide. Veuillez réessayer.</string>
+		<key>comment</key>
+		<string>error when password is wrong</string>
+	</dict>
+	<key>InvalidUsername</key>
+	<dict>
+		<key>value</key>
+		<string>Nom d&apos;utilisateur invalide. Veuillez réessayer.</string>
+		<key>comment</key>
+		<string>error when username is wrong</string>
+	</dict>
+	<key>PasswordExpire</key>
+	<dict>
+		<key>value</key>
+		<string>Votre mot de passe a expiré. Veuillez réinitialiser votre mot de passe maintenant.</string>
+		<key>comment</key>
+		<string>error when password has expired</string>
+	</dict>
+	<key>PasswordAboutToExpire</key>
+	<dict>
+		<key>value</key>
+		<string>Mot de passe à expiration!</string>
+		<key>comment</key>
+		<string>message when password is about to expire</string>
+	</dict>
+	<key>PasswordExpiresOn</key>
+	<dict>
+		<key>value</key>
+		<string>Votre mot de passe réseau est sur le point d&apos;expirer </string>
+		<key>comment</key>
+		<string>Your network password is about to expire on &lt;date&gt;</string>
+	</dict>
+	<key>PasswordMismatch</key>
+	<dict>
+		<key>value</key>
+		<string>Les nouveaux mots de passe ne correspondent pas.</string>
+		<key>comment</key>
+		<string>error when new passwords don&apos;t match</string>
+	</dict>
+	<key>NetworkLocalMismatch</key>
+	<dict>
+		<key>value</key>
+		<string>Vos mots de passe réseau et locaux sont différents. Entrez votre mot de passe local pour mettre à jour votre session.</string>
+		<key>comment</key>
+		<string>error when network and local passwords do not match</string>
+	</dict>
+	<key>ValidCertificate</key>
+	<dict>
+		<key>value</key>
+		<string>Vous avez déjà un certificat valide.</string>
+		<key>comment</key>
+		<string>user already has a valid certificate</string>
+	</dict>
+	<key>Cancel</key>
+	<dict>
+		<key>value</key>
+		<string>Annuler</string>
+		<key>comment</key>
+		<string>button for cancelling actions</string>
+	</dict>
+	<key>RequestAnyway</key>
+	<dict>
+		<key>value</key>
+		<string>Demander à nouveau</string>
+		<key>comment</key>
+		<string>button to request anyway</string>
+	</dict>
+	<key>CertConnectionError</key>
+	<dict>
+		<key>value</key>
+		<string>Erreur de connexion. Assurez-vous que les certificats SSL sont approuvés et que l&apos;URL est correcte pour votre X509 CA.</string>
+		<key>comment</key>
+		<string>message when Certificate Authority can&apos;t be reached</string>
+	</dict>
+	<key>CAConfigError</key>
+	<dict>
+		<key>value</key>
+		<string>Assurez-vous que les paramètres de l&apos;autorité de certification sont corrects.</string>
+		<key>comment</key>
+		<string>error when CA can&apos;t be found</string>
+	</dict>
+	<key>d</key>
+	<dict>
+		<key>value</key>
+		<string>j</string>
+		<key>comment</key>
+		<string>short form of days</string>
+	</dict>
+	<key>HomeSharepoint</key>
+	<dict>
+		<key>value</key>
+		<string>Le dossier Home</string>
+		<key>comment</key>
+		<string>Menu item for opening up a user&apos;s home sharepoint from their AD profile</string>
+	</dict>
+	<key>LoginWindow-OldPasswordLabel</key>
+	<dict>
+		<key>value</key>
+		<string>Old Password</string>
+		<key>comment</key>
+		<string>Label for old password</string>
+	</dict>
+	<key>LoginWindow-PasswordLabel</key>
+	<dict>
+		<key>value</key>
+		<string>Password</string>
+		<key>comment</key>
+		<string>Label for password</string>
+	</dict>
+	<key>NoMADMenuController-SmartcardSignIn</key>
+	<dict>
+		<key>value</key>
+		<string>Smartcard Sign In</string>
+		<key>comment</key>
+		<string>PKINIT smartcard menu sign in</string>
+	</dict>
+	<key>NoMADMenuController-SignInWithSmartcard</key>
+	<dict>
+		<key>value</key>
+		<string>Sign in with a Smartcard.</string>
+		<key>comment</key>
+		<string>PKINIT smartcard menu sign in tool tip</string>
+	</dict>
+	<key>NoMADMenuController-NotLoggedIn</key>
+	<dict>
+		<key>value</key>
+		<string>Not logged in.</string>
+		<key>comment</key>
+		<string>User info for ticket life when not signed in</string>
+	</dict>
+	<key>NoMADMenuController-NotSignedIn</key>
+	<dict>
+		<key>value</key>
+		<string>Not Signed In</string>
+		<key>comment</key>
+		<string>User info when not signed in</string>
+	</dict>
+	<key>NoMADMenuController-NoUser</key>
+	<dict>
+		<key>value</key>
+		<string>No User</string>
+		<key>comment</key>
+		<string>User info when no user is available</string>
+	</dict>
+	<key>UserInformation-PasswordChanged</key>
+	<dict>
+		<key>value</key>
+		<string>Password Changed</string>
+		<key>comment</key>
+		<string>Notification title when password changed</string>
+	</dict>
+	<key>UserInformation-PwdChangedSignInAgain</key>
+	<dict>
+		<key>value</key>
+		<string>Your password was changed, please re-sign into NoMAD to update your password.</string>
+		<key>comment</key>
+		<string>Notification text asking to sign in again</string>
+	</dict>
+	<key>UserInformation-Ignore</key>
+	<dict>
+		<key>value</key>
+		<string>Ignore</string>
+		<key>comment</key>
+		<string>Password change notification ignore button</string>
+	</dict>
+</dict>
+</plist>

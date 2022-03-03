@@ -1,0 +1,84 @@
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Change your network password."; ObjectID = "0IM-ZO-KLA"; */
+"0IM-ZO-KLA.ibShadowedToolTip" = "Zmień swoje hasło.";
+
+/* Class = "NSMenuItem"; title = "Change Password"; ObjectID = "0IM-ZO-KLA"; */
+"0IM-ZO-KLA.title" = "Zmień hasło";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Lock your screen."; ObjectID = "3Pf-2O-qR7"; */
+"3Pf-2O-qR7.ibShadowedToolTip" = "Zablokuj swój ekran.";
+
+/* Class = "NSMenuItem"; title = "Lock Screen"; ObjectID = "3Pf-2O-qR7"; */
+"3Pf-2O-qR7.title" = "Zablokuj ekran";
+
+/* Class = "NSMenuItem"; title = "Preferences"; ObjectID = "3yQ-ft-CVW"; */
+"3yQ-ft-CVW.title" = "Preferencje";
+
+/* Class = "NSMenuItem"; title = "Ticket Info"; ObjectID = "7uv-39-xiX"; */
+"7uv-39-xiX.title" = "Informacje o Tickecie";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Certificate expiration date."; ObjectID = "A9U-v2-LiT"; */
+"A9U-v2-LiT.ibShadowedToolTip" = "Data wygaśnięcia certyfikatu.";
+
+/* Class = "NSMenuItem"; title = "CertificateDate"; ObjectID = "A9U-v2-LiT"; */
+"A9U-v2-LiT.title" = "Data certyfikatu";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Get a certificate."; ObjectID = "AlW-9M-CK2"; */
+"AlW-9M-CK2.ibShadowedToolTip" = "Otrzymaj certyfikat.";
+
+/* Class = "NSMenuItem"; title = "Get Certificate"; ObjectID = "AlW-9M-CK2"; */
+"AlW-9M-CK2.title" = "Otrzymaj certyfikat";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Time until your network password expires."; ObjectID = "CUr-ED-n29"; */
+"CUr-ED-n29.ibShadowedToolTip" = "Czas pozostały do wygaśnięcia hasła sieciowego.";
+
+/* Class = "NSMenuItem"; title = "password expires"; ObjectID = "CUr-ED-n29"; */
+"CUr-ED-n29.title" = "Hasło wygaśnie";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Time until your Kerberos ticket expires."; ObjectID = "QYf-mL-9ta"; */
+"QYf-mL-9ta.ibShadowedToolTip" = "Czas pozostały do wygaśnięcia Ticketu Kerberosa.";
+
+/* Class = "NSMenuItem"; title = "ticket life"; ObjectID = "QYf-mL-9ta"; */
+"QYf-mL-9ta.title" = "Życie ticketu";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Sign in with your network account."; ObjectID = "Wa6-S1-lXm"; */
+"Wa6-S1-lXm.ibShadowedToolTip" = "Zaloguj się przy użyciu konta sieciowego.";
+
+/* Class = "NSMenuItem"; title = "Sign In"; ObjectID = "Wa6-S1-lXm"; */
+"Wa6-S1-lXm.title" = "Zaloguj się";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Sign in with your network account."; ObjectID = "XL2-b8-IwM"; */
+"XL2-b8-IwM.ibShadowedToolTip" = "Zaloguj się przy użyciu konta sieciowego.";
+
+/* Class = "NSMenuItem"; title = "Log In 2"; ObjectID = "XL2-b8-IwM"; */
+"XL2-b8-IwM.title" = "Zaloguj się 2";
+
+/* Class = "NSMenuItem"; title = "Get Software"; ObjectID = "fuo-5h-NuR"; */
+"fuo-5h-NuR.title" = "Otrzymaj oprogramowanie";
+
+/* Class = "NSMenuItem"; title = "Quit"; ObjectID = "gM7-FQ-f0l"; */
+"gM7-FQ-f0l.title" = "Zakończ";
+
+/* Class = "NSMenuItem"; title = "Hidden Item 1"; ObjectID = "kql-Bl-QJE"; */
+"kql-Bl-QJE.title" = "Ukryty element 1";
+
+/* Class = "NSMenuItem"; title = "Dump Logs"; ObjectID = "pC8-5a-Aec"; */
+"pC8-5a-Aec.title" = "Pobierz logi";
+
+/* Class = "NSMenuItem"; title = "Get Help"; ObjectID = "rbx-v6-fJx"; */
+"rbx-v6-fJx.title" = "Otrzymaj pomoc";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Your network user name."; ObjectID = "uQI-ol-UUw"; */
+"uQI-ol-UUw.ibShadowedToolTip" = "Twoja sieciowa nazwa użytkownika.";
+
+/* Class = "NSMenuItem"; title = "user"; ObjectID = "uQI-ol-UUw"; */
+"uQI-ol-UUw.title" = "Użytkownik";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Sign out of your network account."; ObjectID = "w1A-iF-wAU"; */
+"w1A-iF-wAU.ibShadowedToolTip" = "Wyloguj się ze swojego konta sieciowego.";
+
+/* Class = "NSMenuItem"; title = "Sign Out"; ObjectID = "w1A-iF-wAU"; */
+"w1A-iF-wAU.title" = "Wyloguj się";
+
+/* Class = "NSMenuItem"; title = "Software and Help"; ObjectID = "wcV-DA-kNE"; */
+"wcV-DA-kNE.title" = "Oprogramowanie i pomoc";
+

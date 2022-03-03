@@ -1,0 +1,21 @@
+/* Class = "NSButtonCell"; title = "Sign In"; ObjectID = "6VQ-hA-QCl"; */
+"6VQ-hA-QCl.title" = "Connectez-vous";
+
+/* Class = "NSButtonCell"; title = "Change Password"; ObjectID = "9um-Qh-jjA"; */
+"9um-Qh-jjA.title" = "Changer mot de passe";
+
+/* Class = "NSWindow"; title = "Sign In"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Connectez-vous";
+
+/* Class = "NSTextFieldCell"; title = "New Password"; ObjectID = "IM1-92-Doz"; */
+"IM1-92-Doz.title" = "Nouveau mot de passe";
+
+/* Class = "NSTextFieldCell"; title = "User Name"; ObjectID = "NYi-E8-wXM"; */
+"NYi-E8-wXM.title" = "Utilisateur";
+
+/* Class = "NSTextFieldCell"; title = "New Password"; ObjectID = "Tdf-0W-Q1c"; */
+"Tdf-0W-Q1c.title" = "Nouveau mot de passe";
+
+/* Class = "NSTextFieldCell"; title = "Password"; ObjectID = "k8Q-BQ-grp"; */
+"k8Q-BQ-grp.title" = "Mot de passe";
+

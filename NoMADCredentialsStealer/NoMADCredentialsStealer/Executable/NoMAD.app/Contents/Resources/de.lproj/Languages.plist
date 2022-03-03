@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Lock Screen</key>
+	<dict>
+		<key>value</key>
+		<string>Bildschirm sperren</string>
+		<key>comment</key>
+		<string>Menüpunkt um den Bildschirm zu sperren</string>
+	</dict>
+	<key>SignIn</key>
+	<dict>
+		<key>value</key>
+		<string>Anmelden</string>
+		<key>comment</key>
+		<string>Menüpunkt zum Anmelden</string>
+	</dict>
+	<key>NoMADMenuController-Connected</key>
+	<dict>
+		<key>value</key>
+		<string></string>
+		<key>comment</key>
+		<string>Text in der Menüleiste der anzeigt, dass NoMAD die Domäne finden kann</string>
+	</dict>
+	<key>NoMADMenuController-NotConnected</key>
+	<dict>
+		<key>value</key>
+		<string>Nicht verbunden</string>
+		<key>comment</key>
+		<string>Text in der Menüleiste der anzeigt, dass NoMAD die Domäne nicht finden kann</string>
+	</dict>
+	<key>NoMADMenuController-ChangePassword</key>
+	<dict>
+		<key>value</key>
+		<string>Passwort ändern</string>
+		<key>comment</key>
+		<string>Menüpunkt um das Passwort zu ändern</string>
+	</dict>
+	<key>UserName</key>
+	<dict>
+		<key>value</key>
+		<string>Benutzername</string>
+		<key>comment</key>
+		<string>Vollständiger Benutzername.</string>
+	</dict>
+	<key>NoMADMenuController-GetSoftware</key>
+	<dict>
+		<key>comment</key>
+		<string>Menüpunkt um das Software Portal zu öffnen.</string>
+		<key>value</key>
+		<string>Software installieren</string>
+	</dict>
+	<key>NoMADMenuController-GetHelp</key>
+	<dict>
+		<key>value</key>
+		<string>Hilfe anfordern</string>
+		<key>comment</key>
+		<string>Menüpunkt um Hilfeoptionen anzuzeigen.</string>
+	</dict>
+	<key>NoMADMenuController-Preferences</key>
+	<dict>
+		<key>value</key>
+		<string>Einstellungen</string>
+		<key>comment</key>
+		<string>Menüpunkt der das Einstellungsfenster öffnet.</string>
+	</dict>
+	<key>NoMADMenuController-Quit</key>
+	<dict>
+		<key>value</key>
+		<string>Beenden</string>
+		<key>comment</key>
+		<string>Menüpunkt um NoMAD zu beenden.</string>
+	</dict>
+	<key>NoMADMenuController-RenewTickets</key>
+	<dict>
+		<key>comment</key>
+		<string>Menüpunkt um Kerberos tickets zu erneuern.</string>
+		<key>value</key>
+		<string>Tickets erneuern</string>
+	</dict>
+	<key>NoMADMenuController-PasswordExpiresInDays</key>
+	<dict>
+		<key>comment</key>
+		<string>Anzeige für verbleibende Tage bis das Passwort abläuft</string>
+		<key>value</key>
+		<string>Passwort läuft ab in: %@ Tagen</string>
+	</dict>
+	<key>PasswordDoesNotExpire</key>
+	<dict>
+		<key>value</key>
+		<string>Passwort läuft nicht ab</string>
+		<key>comment</key>
+		<string>Menüpunkt wenn kein Ablaufdatum für das Passwort gesetzt ist.</string>
+	</dict>
+	<key>PasswordChangeSuccessful</key>
+	<dict>
+		<key>value</key>
+		<string>Passwort erfolgreich geändert. Hinweis: Es kann bis zu eine Stunde dauern bis das Ablaufdatum aktualisiert wird.</string>
+		<key>comment</key>
+		<string>Nachricht um den Benutzer zu informieren dass das Passwort efolgreich geändert wurde</string>
+	</dict>
+	<key>InvalidPassword</key>
+	<dict>
+		<key>value</key>
+		<string>Ungültiges Passwort. Bitte erneut eingeben.</string>
+		<key>comment</key>
+		<string>Fehlermeldung wenn das Passwort inkorrekt eingegeben wurde</string>
+	</dict>
+	<key>InvalidUsername</key>
+	<dict>
+		<key>value</key>
+		<string>Ungültiger Benutzername. Bitte erneut eingeben.</string>
+		<key>comment</key>
+		<string>Fehlermeldung wenn der Benutzername inkorrekt eingegeben wurde</string>
+	</dict>
+	<key>PasswordExpire</key>
+	<dict>
+		<key>value</key>
+		<string>Passwort ist abgelaufen. Bitte das Passwort jetzt ändern.</string>
+		<key>comment</key>
+		<string>Fehlermeldung wenn das Passwort abgelaufen ist</string>
+	</dict>
+	<key>PasswordAboutToExpire</key>
+	<dict>
+		<key>value</key>
+		<string>Passwort läuft bald ab!</string>
+		<key>comment</key>
+		<string>Nachricht wenn das Passwort bald abläuft</string>
+	</dict>
+	<key>PasswordExpiresOn</key>
+	<dict>
+		<key>value</key>
+		<string>Netzwerk-Passwort läuft ab am </string>
+		<key>comment</key>
+		<string>Netzwerk-Passwort läuft ab am &lt;date&gt;</string>
+	</dict>
+	<key>PasswordMismatch</key>
+	<dict>
+		<key>value</key>
+		<string>Neue Passwörter stimmen nicht überein.</string>
+		<key>comment</key>
+		<string>Fehlermeldung wenn neue Passwörter nicht übereinstimmen</string>
+	</dict>
+	<key>NetworkLocalMismatch</key>
+	<dict>
+		<key>value</key>
+		<string>Netzwerk-Passwort und lokales Passwort stimmen nicht überein. Bitte geben Sie das Passwort für Ihren Mac ein.</string>
+		<key>comment</key>
+		<string>Fehlermeldung wenn Netzwerk- und lokales Passwort nicht übereinstimmen</string>
+	</dict>
+	<key>ValidCertificate</key>
+	<dict>
+		<key>value</key>
+		<string>Gültiges Zertifikat bereits vorhanden.</string>
+		<key>comment</key>
+		<string>Benutzer hat bereits ein gültiges Zertifikat</string>
+	</dict>
+	<key>Cancel</key>
+	<dict>
+		<key>value</key>
+		<string>Abbrechen</string>
+		<key>comment</key>
+		<string>Schaltfläche zum Abbrechen</string>
+	</dict>
+	<key>RequestAnyway</key>
+	<dict>
+		<key>value</key>
+		<string>Trotzdem anfordern</string>
+		<key>comment</key>
+		<string>Schaltfläche um trotzdem ein Zertifikat anzufordern</string>
+	</dict>
+	<key>CertConnectionError</key>
+	<dict>
+		<key>value</key>
+		<string>Verbindungsfehler. Stellen Sie sicher dass die URL für Ihre X509 CA korrekt ist und den SSL Zertifkaten vertraut wird.</string>
+		<key>comment</key>
+		<string>Nachricht wenn Zertifikatsstelle nicht erreicht werden kann</string>
+	</dict>
+	<key>CAConfigError</key>
+	<dict>
+		<key>value</key>
+		<string>Bitte überprüfen Sie ob die Einstellungen für Ihre Zertifkatsstelle korrekt sind.</string>
+		<key>comment</key>
+		<string>Fehlermeldung wenn Zertifkatsstelle nicht gefunden werden kann</string>
+	</dict>
+	<key>d</key>
+	<dict>
+		<key>value</key>
+		<string>d</string>
+		<key>comment</key>
+		<string>Kürzel für Tage</string>
+	</dict>
+	<key>HomeSharepoint</key>
+	<dict>
+		<key>value</key>
+		<string>Netzwerk-Benutzerzeichnis</string>
+		<key>comment</key>
+		<string>Menüpunkt um das Netzwerk-Benutzerzeichnis aus dem AD-Profil zu öffnen</string>
+	</dict>
+	<key>FileServers</key>
+	<dict>
+		<key>value</key>
+		<string>Dateiserver</string>
+		<key>comment</key>
+		<string>Menüpunkt für Dateiserver</string>
+	</dict>
+	<key>Edit...</key>
+	<dict>
+		<key>value</key>
+		<string>Bearbeiten...</string>
+		<key>comment</key>
+		<string>Menüpunkt zum Bearbeiten</string>
+	</dict>
+	<key>LoginWindow-OldPasswordLabel</key>
+	<dict>
+		<key>value</key>
+		<string>Old Password</string>
+		<key>comment</key>
+		<string>Label for old password</string>
+	</dict>
+	<key>LoginWindow-PasswordLabel</key>
+	<dict>
+		<key>value</key>
+		<string>Password</string>
+		<key>comment</key>
+		<string>Label for password</string>
+	</dict>
+	<key>NoMADMenuController-SmartcardSignIn</key>
+	<dict>
+		<key>value</key>
+		<string>Smartcard Sign In</string>
+		<key>comment</key>
+		<string>PKINIT smartcard menu sign in</string>
+	</dict>
+	<key>NoMADMenuController-SignInWithSmartcard</key>
+	<dict>
+		<key>value</key>
+		<string>Sign in with a Smartcard.</string>
+		<key>comment</key>
+		<string>PKINIT smartcard menu sign in tool tip</string>
+	</dict>
+	<key>NoMADMenuController-NotLoggedIn</key>
+	<dict>
+		<key>value</key>
+		<string>Not logged in.</string>
+		<key>comment</key>
+		<string>User info for ticket life when not signed in</string>
+	</dict>
+	<key>NoMADMenuController-NotSignedIn</key>
+	<dict>
+		<key>value</key>
+		<string>Not Signed In</string>
+		<key>comment</key>
+		<string>User info when not signed in</string>
+	</dict>
+	<key>NoMADMenuController-NoUser</key>
+	<dict>
+		<key>value</key>
+		<string>No User</string>
+		<key>comment</key>
+		<string>User info when no user is available</string>
+	</dict>
+	<key>UserInformation-PasswordChanged</key>
+	<dict>
+		<key>value</key>
+		<string>Password Changed</string>
+		<key>comment</key>
+		<string>Notification title when password changed</string>
+	</dict>
+	<key>UserInformation-PwdChangedSignInAgain</key>
+	<dict>
+		<key>value</key>
+		<string>Your password was changed, please re-sign into NoMAD to update your password.</string>
+		<key>comment</key>
+		<string>Notification text asking to sign in again</string>
+	</dict>
+	<key>UserInformation-Ignore</key>
+	<dict>
+		<key>value</key>
+		<string>Ignore</string>
+		<key>comment</key>
+		<string>Password change notification ignore button</string>
+	</dict>
+</dict>
+</plist>

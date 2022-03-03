@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Lock Screen</key>
+	<dict>
+		<key>value</key>
+		<string>Zablokuj ekran</string>
+		<key>comment</key>
+		<string>Menu Item to Lock the Screen</string>
+	</dict>
+	<key>SignIn</key>
+	<dict>
+		<key>value</key>
+		<string>Zaloguj się</string>
+		<key>comment</key>
+		<string>Menu item to Sign In</string>
+	</dict>
+	<key>NoMADMenuController-Connected</key>
+	<dict>
+		<key>value</key>
+		<string></string>
+		<key>comment</key>
+		<string>Text in the menu bar to show that NoMAD can find the Domain</string>
+	</dict>
+	<key>NoMADMenuController-NotConnected</key>
+	<dict>
+		<key>value</key>
+		<string>Brak połączenia</string>
+		<key>comment</key>
+		<string>Text in the menu bar to show that NoMAD can not find the Domain</string>
+	</dict>
+	<key>NoMADMenuController-ChangePassword</key>
+	<dict>
+		<key>value</key>
+		<string>Zmień hasło</string>
+		<key>comment</key>
+		<string>Menu Item to Change Password</string>
+	</dict>
+	<key>UserName</key>
+	<dict>
+		<key>value</key>
+		<string>Nazwa użytkownika</string>
+		<key>comment</key>
+		<string>User&apos;s full name</string>
+	</dict>
+	<key>NoMADMenuController-GetSoftware</key>
+	<dict>
+		<key>comment</key>
+		<string>Menu item to open software portal.</string>
+		<key>value</key>
+		<string>Pobierz oprogramowanie</string>
+	</dict>
+	<key>NoMADMenuController-GetHelp</key>
+	<dict>
+		<key>value</key>
+		<string>Otrzymaj pomoc</string>
+		<key>comment</key>
+		<string>Menu item to open up the support options.</string>
+	</dict>
+	<key>NoMADMenuController-Preferences</key>
+	<dict>
+		<key>value</key>
+		<string>Preferencje</string>
+		<key>comment</key>
+		<string>Menu item to open Preferences window.</string>
+	</dict>
+	<key>NoMADMenuController-Quit</key>
+	<dict>
+		<key>value</key>
+		<string>Wyjdź</string>
+		<key>comment</key>
+		<string>Menu item to quit NoMAD.</string>
+	</dict>
+	<key>NoMADMenuController-RenewTickets</key>
+	<dict>
+		<key>comment</key>
+		<string>Menu item to renew Kerberos tickets</string>
+		<key>value</key>
+		<string>Odśwież Tickety</string>
+	</dict>
+	<key>NoMADMenuController-PasswordExpiresInDays</key>
+	<dict>
+		<key>comment</key>
+		<string>Long text for how many days until your password expires</string>
+		<key>value</key>
+		<string>Hasło wygaśnie za: %@ days</string>
+	</dict>
+	<key>PasswordDoesNotExpire</key>
+	<dict>
+		<key>value</key>
+		<string>Hasło nie wygasa</string>
+		<key>comment</key>
+		<string>menu item for when the password has no expiration date</string>
+	</dict>
+	<key>PasswordChangeSuccessful</key>
+	<dict>
+		<key>value</key>
+		<string>Hasło zostało zmienione. Informacja: Może minąć godzina zanim informacja o przedawnieniu hasła zostanie zaktualizowana.</string>
+		<key>comment</key>
+		<string>message to let user know password changed successfully</string>
+	</dict>
+	<key>InvalidPassword</key>
+	<dict>
+		<key>value</key>
+		<string>Złe hasło. Proszę spróbuj ponownie.</string>
+		<key>comment</key>
+		<string>error when password is wrong</string>
+	</dict>
+	<key>InvalidUsername</key>
+	<dict>
+		<key>value</key>
+		<string>Zła nazwa użytkownika. Proszę spróbuj ponownie.</string>
+		<key>comment</key>
+		<string>error when username is wrong</string>
+	</dict>
+	<key>PasswordExpire</key>
+	<dict>
+		<key>value</key>
+		<string>Twoje hasło wygasło. Proszę zresetuj swoje hasło teraz.</string>
+		<key>comment</key>
+		<string>error when password has expired</string>
+	</dict>
+	<key>PasswordAboutToExpire</key>
+	<dict>
+		<key>value</key>
+		<string>Twoje hasło niedługo wygaśnie!</string>
+		<key>comment</key>
+		<string>message when password is about to expire</string>
+	</dict>
+	<key>PasswordExpiresOn</key>
+	<dict>
+		<key>value</key>
+		<string>Twoje hasło sieciowe wygaśnie za </string>
+		<key>comment</key>
+		<string>Your network password is about to expire on &lt;date&gt;</string>
+	</dict>
+	<key>PasswordMismatch</key>
+	<dict>
+		<key>value</key>
+		<string>Twoje nowe hasło nie zgadza się wpisz je poprawnie.</string>
+		<key>comment</key>
+		<string>error when new passwords don&apos;t match</string>
+	</dict>
+	<key>NetworkLocalMismatch</key>
+	<dict>
+		<key>value</key>
+		<string>Twoje hasło lokalne i sieciowe jest inne. Wpisz proszę hasło swojego maca.</string>
+		<key>comment</key>
+		<string>error when network and local passwords do not match</string>
+	</dict>
+	<key>ValidCertificate</key>
+	<dict>
+		<key>value</key>
+		<string>Posiadasz już ważny Certyfikat.</string>
+		<key>comment</key>
+		<string>user already has a valid certificate</string>
+	</dict>
+	<key>Cancel</key>
+	<dict>
+		<key>value</key>
+		<string>Cancel</string>
+		<key>comment</key>
+		<string>button for cancelling actions</string>
+	</dict>
+	<key>RequestAnyway</key>
+	<dict>
+		<key>value</key>
+		<string>Zarządaj</string>
+		<key>comment</key>
+		<string>button to request anyway</string>
+	</dict>
+	<key>CertConnectionError</key>
+	<dict>
+		<key>value</key>
+		<string>Brak połączenia. Proszę sprawdź czy certificat SSL jest zaufany i URL X509 CA jest poprawny.</string>
+		<key>comment</key>
+		<string>message when Certificate Authority can&apos;t be reached</string>
+	</dict>
+	<key>CAConfigError</key>
+	<dict>
+		<key>value</key>
+		<string>Proszę sprawdź czy ustawienia Certificate Authority są poprawne.</string>
+		<key>comment</key>
+		<string>error when CA can&apos;t be found</string>
+	</dict>
+	<key>d</key>
+	<dict>
+		<key>value</key>
+		<string>d</string>
+		<key>comment</key>
+		<string>short form of days</string>
+	</dict>
+	<key>HomeSharepoint</key>
+	<dict>
+		<key>value</key>
+		<string>Katalog domowy Sharepoint</string>
+		<key>comment</key>
+		<string>Menu item for opening up a user&apos;s home sharepoint from their AD profile</string>
+	</dict>
+	<key>LoginWindow-OldPasswordLabel</key>
+	<dict>
+		<key>value</key>
+		<string>Stare hasło</string>
+		<key>comment</key>
+		<string>Label for old password</string>
+	</dict>
+	<key>LoginWindow-PasswordLabel</key>
+	<dict>
+		<key>value</key>
+		<string>Hasło</string>
+		<key>comment</key>
+		<string>Label for password</string>
+	</dict>
+	<key>NoMADMenuController-SmartcardSignIn</key>
+	<dict>
+		<key>value</key>
+		<string>Zaloguj się: smart kartą</string>
+		<key>comment</key>
+		<string>PKINIT smartcard menu sign in</string>
+	</dict>
+	<key>NoMADMenuController-SignInWithSmartcard</key>
+	<dict>
+		<key>value</key>
+		<string>Zaloguj się przy użyciu smart karty.</string>
+		<key>comment</key>
+		<string>PKINIT smartcard menu sign in tool tip</string>
+	</dict>
+	<key>NoMADMenuController-NotLoggedIn</key>
+	<dict>
+		<key>value</key>
+		<string>Nie jesteś zalogowany.</string>
+		<key>comment</key>
+		<string>User info for ticket life when not signed in</string>
+	</dict>
+	<key>NoMADMenuController-NotSignedIn</key>
+	<dict>
+		<key>value</key>
+		<string>Nie jesteś zalogowany</string>
+		<key>comment</key>
+		<string>User info when not signed in</string>
+	</dict>
+	<key>NoMADMenuController-NoUser</key>
+	<dict>
+		<key>value</key>
+		<string>Brak użytkownika</string>
+		<key>comment</key>
+		<string>User info when no user is available</string>
+	</dict>
+	<key>UserInformation-PasswordChanged</key>
+	<dict>
+		<key>value</key>
+		<string>Hasło zostało zmienione</string>
+		<key>comment</key>
+		<string>Notification title when password changed</string>
+	</dict>
+	<key>UserInformation-PwdChangedSignInAgain</key>
+	<dict>
+		<key>value</key>
+		<string>Twoje hasło zostało zmienione, zaloguj się prosze do NoMADa, aby zaktualizować hasło.</string>
+		<key>comment</key>
+		<string>Notification text asking to sign in again</string>
+	</dict>
+	<key>UserInformation-Ignore</key>
+	<dict>
+		<key>value</key>
+		<string>Ignoruj</string>
+		<key>comment</key>
+		<string>Password change notification ignore button</string>
+	</dict>
+</dict>
+</plist>

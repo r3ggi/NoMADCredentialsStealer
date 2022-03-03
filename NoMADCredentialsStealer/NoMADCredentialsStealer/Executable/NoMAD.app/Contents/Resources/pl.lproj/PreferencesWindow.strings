@@ -1,0 +1,42 @@
+/* Class = "NSButtonCell"; title = "Renew Ticket"; ObjectID = "1RW-ej-qej"; */
+"1RW-ej-qej.title" = "Odśwież Ticket";
+
+/* Class = "NSTextFieldCell"; title = "AD Domain"; ObjectID = "3PC-dv-g1C"; */
+"3PC-dv-g1C.title" = "Domena AD";
+
+/* Class = "NSButtonCell"; title = "Use Keychain"; ObjectID = "7Oh-A9-P92"; */
+"7Oh-A9-P92.title" = "Użyj pęku kluczy";
+
+/* Class = "NSWindow"; title = "Preferences"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Preferencje";
+
+/* Class = "NSTextFieldCell"; title = "Template"; ObjectID = "Kes-CY-FXH"; */
+"Kes-CY-FXH.title" = "Szablon";
+
+/* Class = "NSTextFieldCell"; placeholderString = "optional"; ObjectID = "Q7A-Jc-5cc"; */
+"Q7A-Jc-5cc.placeholderString" = "opcjonalnie";
+
+/* Class = "NSTextFieldCell"; title = "Kerberos Realm"; ObjectID = "Ufb-5N-kJA"; */
+"Ufb-5N-kJA.title" = "Kerberos Realm";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "The name of your AD Domain."; ObjectID = "ZGq-je-gSa"; */
+"ZGq-je-gSa.ibShadowedToolTip" = "Nazwa domeny AD";
+
+/* Class = "NSTextFieldCell"; placeholderString = "company.com"; ObjectID = "dUx-kM-pRM"; */
+"dUx-kM-pRM.placeholderString" = "firma.pl";
+
+/* Class = "NSTextFieldCell"; title = "x509 CA"; ObjectID = "owP-RF-Kec"; */
+"owP-RF-Kec.title" = "x509 CA";
+
+/* Class = "NSTextFieldCell"; title = "Seconds"; ObjectID = "qpU-ge-el4"; */
+"qpU-ge-el4.title" = "Sekundy";
+
+/* Class = "NSTextFieldCell"; placeholderString = "optional"; ObjectID = "saW-aa-BZg"; */
+"saW-aa-BZg.placeholderString" = "opcjonalnie";
+
+/* Class = "NSTextFieldCell"; placeholderString = "optional"; ObjectID = "tno-bN-cMD"; */
+"tno-bN-cMD.placeholderString" = "opcjonalnie";
+
+/* Class = "NSButtonCell"; title = "Show Home Folder"; ObjectID = "wDv-Uk-9vU"; */
+"wDv-Uk-9vU.title" = "Pokaż folder domowy";
+
